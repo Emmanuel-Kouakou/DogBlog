@@ -6,4 +6,4 @@ from datetime import datetime
 dt = datetime.today()
 
 def index(request):
-    return render(request, "index.html", context={"date":dt})
+    return render(request, "dogBlog/index.html", context={"date":dt})
