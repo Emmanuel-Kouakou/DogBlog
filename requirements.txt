@@ -4,6 +4,7 @@ Django==3.1.6
 executing==1.2.0
 pickleshare==0.7.5
 psutil==5.9.5
+psycopg2==2.9.6
 pure-eval==0.2.2
 Pygments==2.15.1
 pytz==2023.3
